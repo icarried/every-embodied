@@ -7,6 +7,7 @@ XLA_PYTHON_CLIENT_MEM_FRACTION=0.7 uv run scripts/serve_policy.py --host='0.0.0.
 也可以执行
 python scripts/serve_policy.py --host='0.0.0.0' --port=8999 policy:checkpoint --policy.config=organize_items --policy.dir ./checkpoints/organize_items/29999
 # 原因：启动命令的uv run会重新创建一个虚拟环境而不是使用已经创建的openpi-server虚拟环境。把uv run换成python就可以了，然后这个命令自动下载的openpi相关模型保存在~/.cache/openpi下，如果用户误删再重新下载会很麻烦。所以也需要说明一下，不要随便删文件
+# 注意，不要删除~/.cache，重新下载模型非常花时间！
 ```
 
 
