@@ -1,6 +1,4 @@
-- 
-
-- <div align="center">
+<div align="center">
     <img src="assets/main.png" width="100%" alt="Banner" />
 
 
@@ -39,8 +37,7 @@
     <img src="./assets/hugging-face.png" height="40" style="margin: 0 10px;"> 
     <img src="./assets/shanghaiailab.webp" height="40" style="margin: 0 10px;"> 
   </div>
-
-  </div>
+</div>
 
   
 
