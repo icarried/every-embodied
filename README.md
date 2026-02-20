@@ -14,7 +14,7 @@
   # Every-Embodied : Zero to Hero in Embodied AI
 
   <p align="center">
-    📌 <a href="https://datawhaler.feishu.cn/wiki/ANwTwcmK1iydqZkBrpRcia3nnlf">在线阅读 (Read Online)</a> · ✨ <a href="#学习地图">学习地图 (Learning Map)</a> · 🤖 <a href="#视频教程">前沿复现 (SOTA)</a>
+    📌 <a href="https://datawhaler.feishu.cn/wiki/ANwTwcmK1iydqZkBrpRcia3nnlf">在线阅读 (Read Online)</a> · ✨ <a href="#learning-map">学习地图 (Learning Map)</a> · 🤖 <a href="#sota">前沿复现 (SOTA)</a>
   </p>
 
   <p align="center">
@@ -164,7 +164,7 @@
     </details>
 
   
-
+  <span id="sota"></span>
   ## 📽️视频教程
 
   Habitat导航基础复现： https://www.datawhale.cn/learn/content/258/6154
@@ -178,7 +178,7 @@
   
 
   
-
+  <span id="learning-map"></span>
   ## 🗺️ 学习地图
 
   ### 一、基础入门 - 走进机器人的世界
