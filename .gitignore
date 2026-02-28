@@ -170,3 +170,17 @@ cython_debug/
 12-待定开源教程/
 
 *.pth
+
+*.safetensors
+
+eval_videos/
+
+lerobot
+demo_data
+demo_data_language
+ckpt
+**/plate_11
+datawhale_eai_pnp
+.venv
+wandb
+datawhale_eai_pnp_language
