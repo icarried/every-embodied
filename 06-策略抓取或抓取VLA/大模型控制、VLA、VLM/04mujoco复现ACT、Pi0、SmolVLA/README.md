@@ -1,4 +1,4 @@
-﻿# LeRobot MuJoCo 教程（中文）
+﻿# LeRobot MuJoCo 训练ACT、SmolVLA、Pi0教程
 本仓库提供了一个最小可运行示例：用于采集示教数据，并在自定义数据集上训练（或微调）视觉-语言-动作（VLA）模型。
 
 ## 目录
@@ -21,6 +21,7 @@
 
 安装 MuJoCo 相关依赖和 lerobot：
 ```bash
+conda create -n py310 python=3.10
 pip install -r requirements.txt
 conda install jupyterlab
 pip install ipywidgets ipykernel

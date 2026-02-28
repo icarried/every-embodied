@@ -2,7 +2,7 @@
     "codebase_version": "v2.1",
     "robot_type": "omy",
     "total_episodes": 1,
-    "total_frames": 201,
+    "total_frames": 275,
     "total_tasks": 1,
     "total_videos": 0,
     "total_chunks": 1,
